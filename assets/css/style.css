@@ -818,6 +818,18 @@ section {
   color: #848484;
 }
 
+.features .activities {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 5px;
+}
+.features .activities img {
+  flex: 1;
+  width: 90%;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
@@ -1068,7 +1080,7 @@ section {
   z-index: 1;
   font-size: 14px;
   padding: 1px 0 3px 0;
-  background: #4154f1;
+  background: -webkit-linear-gradient(300deg, #4e1a70 20%, #2b4cf2 70%);
   color: #fff;
 }
 
