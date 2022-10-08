@@ -1,5 +1,7 @@
 Made with bootstrap template
+Modified by warlord200 for school webdesign project
 Credits below
+
 
 Template Name: FlexStart
 Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
